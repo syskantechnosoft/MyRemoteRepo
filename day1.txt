@@ -1,0 +1,136 @@
+
+JRE - Java Runtime Environment (Common users) -- To Run the java application/programs
+
+JDK - Java Development Kit
+
+
+JAVA -- Java is a Object Oriented Programming Lang
+
+Platform Independence
+Security
+
+
+WORA  - Write Once and Run Everywhere
+
+
+JDK - 17
+
+JDK - 8 (Very popular version & game changer)
+
+JAVA - SUN MicroSystem, Oracle 
+
+You can download the JDK with a oracle account (signup for a new oracle account)
+
+Adding two Entries in the Environment variable 
+
+JAVA_HOME = 
+
+path
+
+
+
+IDE - Eclipse EE (Stand-alone, web projects, Jee, Maven Proj, JPA Proj .....)
+
+Eclipse Enterprise Edition (For Java and Web Developers)
+
+JAVA Edition 
+
+Java SE - Standard Edition (Core JAVA - Desktop based/stand-alone applications)
+
+Java EE - Enterprise Edition (Adv JAVA - Web App,JPA App, JEE App.....)
+
+Java ME - Micro/Mobile Edition (to run small java apps, games)
+
+
+Android = Java + Linux Kernal 
+
+
+JDK - JRE + Additional Libraries 
+
+JRE - java (this will invoke the JVM)
+
+
+JVM - Java Virtual Machine (A Computer developed completely by software only) 
+
+
+JDK - java, javac  - java compiler (which will convert source code .java -> .class byte/object code 
+
+
+javac HelloWorld.java
+
+HelloWorld.class 
+
+
+
+Steps For Changing the Environment Variable (Windows System)
+
+Step 1: Type "env" in the search box
+Step 2: Select "Edit the System Environment Variable" option
+Step 3: Click on "Environment Variables" button
+Step 4.1: Under "System Variables" section, click "new" button to add JAVA_HOME (if it's not available already)
+Step 4.2: Under "System Variables" section, click "Edit" button by selecting JAVA_HOME (if it's available already)
+Step 5: click the "Browse Directory" button and select JDK Location (C:/Program Files/Java/jdk1.8.x)
+Step 6: click ok
+Step 7.1: select "path" and click "new" button if JAVA_HOME is not added already
+Step 7.2: select "path" and click "edit" button by selecting JAVA_HOME, if it is added already
+step 8: modify %JAVA_HOME%\bin and select move up button.
+
+
+Eclipse EE - 
+
+java is a case sensitive lang.
+
+
+
+HelloWorld.java
+
+
+
+French
+1) Learning the Alphabets
+2) Learning the words 
+3) Learn grammer to make sentences 
+4) Try to speak, read 
+
+
+JAVA
+1) Alphabets, Symbols, keywords 
+2) Syntax, Class, Object
+3) Program 
+4) Features of Java, OOP concepts
+
+
+
+
+JAVA is a case sensitive lang
+
+A-Z, a-z, 0-9, +,-,*,/,%, =, ==, ++, --, .,, -> ,[], (), {} ,::
+
+Keywords  (reserved words)    if, else, int, char, float, byte, short, long, double, while, for, public, private, protected, class, package, extends, implements, try, catch, final, finally, 
+
+Control Statements --- 
+
+ 1) Conditional control statement (if, if..else, nested if, switch)
+ 2) Looping control statement (for, while, do.. while)
+
+ for, while (0 to n times) -- this loop type can be ignored
+do while (1 to n time) -- It will execute atleast one time
+
+
+IDE - Eclipse, IntelliJ, Netbeans, VS Code.....
+
+
+To Create a project in eclipse
+
+Open Eclipse (select the work space folder)
+
+File -> New -> Project --> Java Project
+
+
+
+Ctrl+Space  == shortcut for Auto Code Suggestion 
+
+Ctrl + F11 = Shortcut to Run your Java file/project
+
+
+
